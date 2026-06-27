@@ -327,14 +327,7 @@ It helps the company understand which customer segment is large, which segment i
 
 Final Output
 
-Customer Segment |	Number of Customers	|Percentage
-Others	|2,164|	49.50%
-Potential_Customer	|500	|11.44%
-Churned_Customer	|422|	9.65%
-Sleeping_Away	|395	|9.03%
-Loyal_Customer|	328	|7.50%
-Active_Customer|	296|	6.77%
-Lost_Customer	|267| 6.11%
+
 
 ⸻
 
