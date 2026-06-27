@@ -326,7 +326,7 @@ It helps the company understand which customer segment is large, which segment i
 ⸻
 
 Final Output
-
+![rfm](images/rfm.JPG)
 
 
 ⸻
